@@ -1,0 +1,19 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "coursera end project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zouss28/Courser-project.git"
+  },
+  "author": "Zouss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zouss28/Courser-project/issues"
+  },
+  "homepage": "https://github.com/Zouss28/Courser-project#readme"
+}
